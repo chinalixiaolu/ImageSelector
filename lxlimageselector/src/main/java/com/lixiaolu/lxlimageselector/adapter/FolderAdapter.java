@@ -35,6 +35,7 @@ public class FolderAdapter extends RecyclerView.Adapter<FolderAdapter.ViewHolder
         mContext = context;
         mFolders = folders;
         this.mInflater = LayoutInflater.from(context);
+        System.out.println(1111);
     }
 
     @Override

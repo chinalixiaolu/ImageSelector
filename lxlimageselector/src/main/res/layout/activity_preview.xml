@@ -3,7 +3,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent">
 
-    <com.donkingliang.imageselector.view.MyViewPager
+    <com.lixiaolu.lxlimageselector.view.MyViewPager
         android:id="@+id/vp_image"
         android:layout_width="match_parent"
         android:layout_height="match_parent"

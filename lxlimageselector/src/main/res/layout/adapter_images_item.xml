@@ -5,7 +5,7 @@
     android:layout_gravity="center"
     android:layout_margin="1dp">
 
-    <com.donkingliang.imageselector.view.SquareImageView
+    <com.lixiaolu.lxlimageselector.view.SquareImageView
         android:id="@+id/iv_image"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -13,7 +13,7 @@
         android:background="#010101"
         android:scaleType="centerCrop" />
 
-    <com.donkingliang.imageselector.view.SquareImageView
+    <com.lixiaolu.lxlimageselector.view.SquareImageView
         android:id="@+id/iv_masking"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"

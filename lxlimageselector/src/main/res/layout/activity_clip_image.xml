@@ -74,7 +74,7 @@
 
     </RelativeLayout>
 
-    <com.donkingliang.imageselector.view.ClipImageView
+    <com.lixiaolu.lxlimageselector.view.ClipImageView
         android:id="@+id/process_img"
         android:layout_width="match_parent"
         android:layout_height="match_parent" />

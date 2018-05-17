@@ -20,18 +20,7 @@
         </activity>
 
 
-        <activity
-            android:name="com.lixiaolu.lxlimageselector.ImageSelectorActivity"
-            android:configChanges="orientation|keyboardHidden|screenSize"
-            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
-        <activity
-            android:name="com.lixiaolu.lxlimageselector.PreviewActivity"
-            android:configChanges="orientation|keyboardHidden|screenSize"
-            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
-        <activity
-            android:name="com.lixiaolu.lxlimageselector.ClipImageActivity"
-            android:configChanges="orientation|keyboardHidden|screenSize"
-            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+
 
 
 
